@@ -1,3 +1,9 @@
+# Exploratory Data Analysis on US Traffic Incidents
+
+(Developed in the course of a written assignment task for my study at IU)
+
+![Analysis Areas](analysis_areas_figure.jpg)
+
 ## Introduction
 The aim of this notebook is to demonstrate how a data set can be explored by support of descriptive statistics and visualizations based on design principles in order to getting familiar with the data set and gain insights. The goal is to analyze what has happened so far to discover meaningful insights from the data.
 
